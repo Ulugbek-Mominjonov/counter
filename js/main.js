@@ -21,10 +21,6 @@ btns.forEach( btn => {
     }else{
       output.style.color = "#222"
     }
-
-
-
-
     output.textContent = count;
   })
 })
